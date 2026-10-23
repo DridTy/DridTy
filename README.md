@@ -1,7 +1,7 @@
 # DridTy
 
-Traduções comunitárias para aproveitar mais os jogos.  
-Community translations for a better gaming experience.
+Traduções em Geral para aproveitar mais os jogos.  
+Translations for a better gaming experience.
 
 ---
 
@@ -14,10 +14,10 @@ Community translations for a better gaming experience.
 </td>
 <td>
 <h3><a href="https://github.com/DridTy/GranSaga-Language-Launcher">GRAN SAGA LOCALIZER</a></h3>
-<p><code>v0.3 PREVIEW</code> <code>PT-BR / ENGLISH</code> <code>WINDOWS X64</code></p>
+<p><code>v0.4.2 PREVIEW</code> <code>PT-BR / ENGLISH</code> <code>WINDOWS X64</code></p>
 <p>Instalador comunitário de traduções para <b>Gran Saga RU / 4game</b>, com escolha de idioma, verificação, backup e restauração do russo original.</p>
 <p>Menus ampliados e história parcial. A prévia inclui traduções automáticas em revisão; alguns textos ainda aparecem em russo.</p>
-<p><a href="https://github.com/DridTy/GranSaga-Language-Launcher"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/GranSaga-Language-Launcher/releases/tag/v0.3.0-preview">BAIXAR / DOWNLOAD</a></p>
+<p><a href="https://github.com/DridTy/GranSaga-Language-Launcher"><b>VER O PROJETO →</b></a> · <a href="(https://github.com/DridTy/GranSaga-Language-Launcher/releases/download/v0.4.2-story-preview/GranSagaLocalizer-v0.4.2-story-preview.zip)">BAIXAR / DOWNLOAD</a></p>
 </td>
 </tr>
 </table>
