@@ -1,6 +1,6 @@
 # DridTy
 
-Traduções em Geral para aproveitar mais os jogos.  
+Traduções em geral para aproveitar mais os jogos.  
 Translations for a better gaming experience.
 
 ---
@@ -14,10 +14,12 @@ Translations for a better gaming experience.
 </td>
 <td>
 <h3><a href="https://github.com/DridTy/GranSaga-Language-Launcher">GRAN SAGA LOCALIZER</a></h3>
-<p><code>v0.4.2 PREVIEW</code> <code>PT-BR / ENGLISH</code> <code>WINDOWS X64</code></p>
-<p>Instalador comunitário de traduções para <b>Gran Saga RU / 4game</b>, com escolha de idioma, verificação, backup e restauração do russo original.</p>
-<p>Menus ampliados e história parcial. A prévia inclui traduções automáticas em revisão; alguns textos ainda aparecem em russo.</p>
-<p><a href="https://github.com/DridTy/GranSaga-Language-Launcher"><b>VER O PROJETO →</b></a> · <a href="(https://github.com/DridTy/GranSaga-Language-Launcher/releases/download/v0.4.2-story-preview/GranSagaLocalizer-v0.4.2-story-preview.zip)">BAIXAR / DOWNLOAD</a></p>
+<p><code>v0.4.5 PREVIEW</code> <code>PT-BR / ENGLISH</code> <code>WINDOWS X64</code></p>
+<p>Instalador comunitário de traduções para <b>Gran Saga RU / 4game</b>, com escolha de idioma, verificação de compatibilidade, backup e restauração do russo original.</p>
+<p><b>71.352 falas originalmente russas do banco de história inspecionado traduzidas nos dois idiomas</b>, além de menus ampliados e revisões da interface. A v0.4.5 melhora instruções, terminologia e mensagens, mantendo a correção da imagem do launcher ao redimensionar.</p>
+<p>Inclui tradução automática em revisão. A cobertura do banco de diálogos não significa que todos os recursos do jogo estejam traduzidos; ainda podem aparecer textos em russo, frases estranhas e rótulos sobrepostos. A revisão da campanha inteira continua pendente.</p>
+<p><a href="https://github.com/DridTy/GranSaga-Language-Launcher"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/GranSaga-Language-Launcher/releases/download/v0.4.5-review-preview/GranSagaLocalizer-v0.4.5-review-preview.zip">BAIXAR / DOWNLOAD</a> · <a href="https://github.com/DridTy/GranSaga-Language-Launcher/releases/tag/v0.4.5-review-preview">NOTAS DA VERSÃO</a></p>
+<p><a href="https://gamebanana.com/tools/24612">GameBanana</a> · <a href="https://ru.4game.ru/gransaga/">Instalar o jogo — 4game oficial</a></p>
 </td>
 </tr>
 </table>
