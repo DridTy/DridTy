@@ -10,6 +10,24 @@ Translations for a better gaming experience.
 <table>
 <tr>
 <td width="240" align="center">
+<a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><img src="https://raw.githubusercontent.com/DridTy/DridTy/main/assets/pgr-projeto.png" width="220" alt="PGR Localizer PT-BR"></a>
+</td>
+<td>
+<h3><a href="https://github.com/DridTy/PGR-Traducao-PT-BR">PGR LOCALIZER</a></h3>
+<p><code>v0.6.7 · PRIMEIRA VERSÃO PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
+<p>Instalador comunitário de tradução para <b>Punishing: Gray Raven</b>, com aplicação em um clique, verificação automática de compatibilidade, backup, restauração dos originais e consulta de novas versões pelo GitHub.</p>
+<p><b>Prólogo e roteiros mapeados dos capítulos 1 a 21 — Espiral de Cronos</b>, além de menus, descrições selecionadas, saudações, afinidade e interações dos personagens. Inclui falas de obtenção, melhorias, formação de equipe, liderança, combate e missão concluída com cobertura ampliada.</p>
+<p>Tradução parcial em desenvolvimento, com tradução automática em revisão. Eventos, histórias secundárias, vídeos, imagens e outros textos ainda têm lacunas. O áudio permanece original.</p>
+<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v0.6.7/PGR-PTBR-v0.6.7-COMPLETO.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/tag/v0.6.7">NOTAS DA VERSÃO</a></p>
+<p>Pacote completo e independente das versões anteriores. Extraia o ZIP inteiro, feche o jogo e clique em <b>Aplicar PT-BR</b>. Inicie pela Steam e mantenha o idioma do cliente em inglês.</p>
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="240" align="center">
 <a href="https://github.com/DridTy/GranSaga-Language-Launcher"><img src="https://raw.githubusercontent.com/DridTy/GranSaga-Language-Launcher/main/assets/project-card.png" width="220" alt="Gran Saga Localizer"></a>
 </td>
 <td>
@@ -27,19 +45,3 @@ Translations for a better gaming experience.
 [Português BR](https://github.com/DridTy/GranSaga-Language-Launcher/blob/main/README.pt-BR.md) · [English](https://github.com/DridTy/GranSaga-Language-Launcher/blob/main/README.md)
 
 
-<table>
-<tr>
-<td width="240" align="center">
-<a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><img src="https://raw.githubusercontent.com/DridTy/DridTy/main/assets/pgr-projeto.png" width="220" alt="PGR Localizer PT-BR"></a>
-</td>
-<td>
-<h3><a href="https://github.com/DridTy/PGR-Traducao-PT-BR">PGR LOCALIZER</a></h3>
-<p><code>v0.6.7 · PRIMEIRA VERSÃO PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
-<p>Instalador comunitário de tradução para <b>Punishing: Gray Raven</b>, com aplicação em um clique, verificação automática de compatibilidade, backup, restauração dos originais e consulta de novas versões pelo GitHub.</p>
-<p><b>Prólogo e roteiros mapeados dos capítulos 1 a 21 — Espiral de Cronos</b>, além de menus, descrições selecionadas, saudações, afinidade e interações dos personagens. Inclui falas de obtenção, melhorias, formação de equipe, liderança, combate e missão concluída com cobertura ampliada.</p>
-<p>Tradução parcial em desenvolvimento, com tradução automática em revisão. Eventos, histórias secundárias, vídeos, imagens e outros textos ainda têm lacunas. O áudio permanece original.</p>
-<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v0.6.7/PGR-PTBR-v0.6.7-COMPLETO.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/tag/v0.6.7">NOTAS DA VERSÃO</a></p>
-<p>Pacote completo e independente das versões anteriores. Extraia o ZIP inteiro, feche o jogo e clique em <b>Aplicar PT-BR</b>. Inicie pela Steam e mantenha o idioma do cliente em inglês.</p>
-</td>
-</tr>
-</table>
