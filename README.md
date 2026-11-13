@@ -14,11 +14,10 @@ Translations for a better gaming experience.
 </td>
 <td>
 <h3><a href="https://github.com/DridTy/PGR-Traducao-PT-BR">PGR LOCALIZER</a></h3>
-<p><code>v0.6.12 · SEGUNDA VERSÃO PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
+<p><code>v0.6.14 · SEGUNDA VERSÃO PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
 <p>Instalador de tradução para <b>Punishing: Gray Raven</b>, com aplicação em um clique, verificação automática de compatibilidade, backup, restauração dos originais e consulta de novas versões pelo GitHub.</p>
-<p><b>Prólogo e roteiros mapeados dos capítulos 1 a 29 </b>, além de menus, descrições selecionadas, saudações, afinidade e interações dos personagens. Inclui falas de obtenção, melhorias, formação de equipe, liderança, combate e missão concluída com cobertura ampliada.</p>
-<p>Tradução parcial em desenvolvimento, com tradução automática em revisão. Eventos, histórias secundárias, vídeos, imagens e outros textos ainda têm lacunas. O áudio permanece original.</p>
-<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v0.6.12/PGR-PTBR-v0.6.12-EX-OCULTAS.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases">NOTAS DA VERSÃO</a></p>
+
+<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v0.6.14/PGR-PTBR-v0.6.14-STEAM-4.9.1.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases">NOTAS DA VERSÃO</a></p>
 <p>Pacote completo e independente das versões anteriores. Extraia o ZIP inteiro, feche o jogo e clique em <b>Aplicar PT-BR</b>. Inicie pela Steam e mantenha o idioma do cliente em inglês.</p>
 </td>
 </tr>
@@ -34,8 +33,7 @@ Translations for a better gaming experience.
 <h3><a href="https://github.com/DridTy/GranSaga-Language-Launcher">GRAN SAGA LOCALIZER</a></h3>
 <p><code>v0.4.5 PREVIEW</code> <code>PT-BR / ENGLISH</code> <code>WINDOWS X64</code></p>
 <p>Instalador de traduções para <b>Gran Saga RU / 4game</b>, com escolha de idioma, verificação de compatibilidade, backup e restauração do russo original.</p>
-<p><b>71.352 falas originalmente russas do banco de história inspecionado traduzidas nos dois idiomas</b>, além de menus ampliados e revisões da interface. A v0.4.5 melhora instruções, terminologia e mensagens, mantendo a correção da imagem do launcher ao redimensionar.</p>
-<p>Inclui tradução automática em revisão. A cobertura do banco de diálogos não significa que todos os recursos do jogo estejam traduzidos; ainda podem aparecer textos em russo, frases estranhas e rótulos sobrepostos. A revisão da campanha inteira continua pendente.</p>
+
 <p><a href="https://github.com/DridTy/GranSaga-Language-Launcher"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/GranSaga-Language-Launcher/releases/download/v0.4.5-review-preview/GranSagaLocalizer-v0.4.5-review-preview.zip">BAIXAR / DOWNLOAD</a> · <a href="https://github.com/DridTy/GranSaga-Language-Launcher/releases/tag/v0.4.5-review-preview">NOTAS DA VERSÃO</a></p>
 <p><a href="https://gamebanana.com/tools/24612">GameBanana</a> · <a href="https://ru.4game.ru/gransaga/">Instalar o jogo — 4game oficial</a></p>
 </td>
