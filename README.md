@@ -14,10 +14,10 @@ Translations for a better gaming experience.
 </td>
 <td>
 <h3><a href="https://github.com/DridTy/PGR-Traducao-PT-BR">PGR LOCALIZER</a></h3>
-<p><code>v0.6.14 · SEGUNDA VERSÃO PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
+<p><code>v1.0.0 · VERSÃO BETA 4 PÚBLICA</code> <code>PORTUGUÊS BRASILEIRO</code> <code>WINDOWS · STEAM GLOBAL</code></p>
 <p>Instalador de tradução para <b>Punishing: Gray Raven</b>, com aplicação em um clique, verificação automática de compatibilidade, backup, restauração dos originais e consulta de novas versões pelo GitHub.</p>
 
-<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v0.6.14/PGR-PTBR-v0.6.14-STEAM-4.9.1.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases">NOTAS DA VERSÃO</a></p>
+<p><a href="https://github.com/DridTy/PGR-Traducao-PT-BR"><b>VER O PROJETO →</b></a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases/download/v1.0.0-beta.4/PGR-PTBR-v1.0.0-beta.4-STEAM-4.9.1.zip">BAIXAR TRADUÇÃO</a> · <a href="https://github.com/DridTy/PGR-Traducao-PT-BR/releases">NOTAS DA VERSÃO</a></p>
 <p>Pacote completo e independente das versões anteriores. Extraia o ZIP inteiro, feche o jogo e clique em <b>Aplicar PT-BR</b>. Inicie pela Steam e mantenha o idioma do cliente em inglês.</p>
 </td>
 </tr>
